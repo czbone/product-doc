@@ -24,3 +24,10 @@ https://white.magic3.biz
 ## ログイン
 ログイン画面からログインします。
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_2.png">
+
+## トップ画面
+ログイン後に表示される画面には通話可能な相手の一覧と、右下に自分のビデオカメラの映像が表示されます。
+ビデオ通話時にはここで確認された映像がそのまま相手側から参照できます。
+
+<img src="https://github.com/czbone/product-doc/blob/images/wbs_3.png">
+
