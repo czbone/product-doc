@@ -36,3 +36,6 @@ https://white.magic3.biz
 
 スタートボタンで通話が開始されます。相手側からもスタートボタンが押されて初めて双方の通話が可能になります。
 
+## 通話先の状態
+
+<img src="https://github.com/czbone/product-doc/blob/images/wbs_4.png">
