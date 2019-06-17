@@ -19,3 +19,6 @@ https://white.magic3.biz
 テスト用アカウント
 通話用アカウントとして、sample1, sample2が使用できます。パスワードはアカウントと同じです。
 
+<img src="https://github.com/czbone/product-doc/blob/images/wbs_1.png">
+
+## ログイン
