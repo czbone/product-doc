@@ -26,16 +26,25 @@ https://white.magic3.biz
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_2.png">
 
 ## トップ画面
-ログイン後に表示される画面には通話可能な相手の一覧と、右下に自分のビデオカメラの映像が表示されます。
+ログイン後に表示される画面には通話可能な相手先の一覧と、右下に自分のビデオカメラの映像が表示されます。
 
 この画面表示時にビデオカメラやマイクを使用するかの確認ダイアログが表示されるのでOKで進みます。
 カメラが接続されると自動的に右下に映像が表示されます。
 ビデオ通話時にはここで確認された映像がそのまま相手側から閲覧できます。
 
-<img src="https://github.com/czbone/product-doc/blob/images/wbs_3.png">
-
 スタートボタンで通話が開始されます。相手側からもスタートボタンが押されて初めて双方の通話が可能になります。
 
-## 通話先の状態
+<img src="https://github.com/czbone/product-doc/blob/images/wbs_3.png">
+
+
+## 通話相手先の状態
+
+トップ画面で表示される通話相手先の状態はアイコンに表示されます。
+
+緑の状態は相手側でスタートボタンが押されて通話待機中になっていることを示します。
+グレーの場合は相手がログインはしているがスタートボタンを押していない状態です。
 
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_4.png">
+
+## 通話画面
+
