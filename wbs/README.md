@@ -51,6 +51,10 @@ https://white.magic3.biz
 
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_5.png">
 
+### 相手先の通話開始
+相手先がスタートするとサブビューにビデオ映像が表示されます。
+<img src="https://github.com/czbone/product-doc/blob/images/wbs_6.png">
+
 ## 終了
 ナビゲーションメニューから終了を選択します。
 
