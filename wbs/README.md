@@ -55,6 +55,9 @@ https://white.magic3.biz
 相手先がスタートするとサブビューにビデオ映像が表示されます。
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_6.png">
 
+サブビューの相手先の映像をクリックするとホワイトボードと入れ替わります。
+<img src="https://github.com/czbone/product-doc/blob/images/wbs_7.png">
+
 ## 終了
 ナビゲーションメニューから終了を選択します。
 
