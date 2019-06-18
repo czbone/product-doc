@@ -58,7 +58,13 @@ https://white.magic3.biz
 サブビューの相手先の映像をクリックするとホワイトボードと入れ替わります。
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_7.png">
 
+## ホワイトボード
+ホワイトボードの背景に画像ファイルをアップロードするには右上のファイルアップロードボタンを押します。  
+ファイルのドロップエリアが表示されるので画像ファイルをドラッグ&ドロップします。
+
+<img src="https://github.com/czbone/product-doc/blob/images/wbs_8.png">
+
 ## 終了
 ナビゲーションメニューから終了を選択します。
 
-<img src="https://github.com/czbone/product-doc/blob/images/wbs_.png">
+<img src="https://github.com/czbone/product-doc/blob/images/wbs_9.png">
