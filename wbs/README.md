@@ -48,3 +48,10 @@ https://white.magic3.biz
 ## 通話画面
 
 スタートボタンを押すと通話画面に遷移します。
+
+<img src="https://github.com/czbone/product-doc/blob/images/wbs_5.png">
+
+## 終了
+ナビゲーションメニューから終了を選択します。
+
+<img src="https://github.com/czbone/product-doc/blob/images/wbs_.png">
