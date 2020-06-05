@@ -1,7 +1,20 @@
-# ���i�h�L�������g
+# 製品ドキュメント
 
-## �z���C�g�{�[�h�V�X�e��(WBS)
+## ホワイトボードシステム(WBS)
 
-�r�f�I�ʘb�ƃz���C�g�{�[�h���g�p�ł���l�b�g�R���{���[�V�����c�[���ł��B
+ビデオ通話とホワイトボードが使用できるネットコラボレーションツールです。
 
-- �ȈՃ}�j���A�� https://github.com/czbone/product-doc/tree/master/wbs
+### 主な特徴
+
+- 複数ユーザでのビデオ通話
+- リアルタイムで更新される人数分のホワイトボード
+
+### 操作マニュアル
+
+- 簡易操作マニュアル(旧) https://github.com/czbone/product-doc/tree/master/wbs
+
+### デモ
+
+- https://x1.magic3.biz
+
+ユーザアカウント(test1, test2, test3, test4, test5)が使用可能。パスワードはアカウント名と同じ。

@@ -1,79 +1,79 @@
-# �z���C�g�{�[�h�V�X�e��(WBS)�ȈՃ}�j���A��
+# ホワイトボードシステム(WBS)簡易マニュアル
 
-## �V�X�e���T�v
-�u�z���C�g�{�[�h�V�X�e��(WBS)�v�́A�l�b�g��**���L�����z���C�g�{�[�h**�ł̍�Ƃ�**�r�f�I�ʘb**���\�ȃR���{���[�V�����V�X�e���ł��B
-1�[���ɕt��2��܂ł̃J���������p�ł��A�ő�2���2��̃r�f�I�ʘb���\�ł��B
+## システム概要
+「ホワイトボードシステム(WBS)」は、ネットで**共有したホワイトボード**での作業と**ビデオ通話**が可能なコラボレーションシステムです。
+1端末に付き2台までのカメラが利用でき、最大2台対2台のビデオ通話が可能です。
 
-### �K�v��
+### 必要環境
 
-- Chrome�u���E�U
-- �p�\�R���p�J���� - 1�[���ɍő�2��܂ŁB�p�\�R���g�ݍ��݂̓����J������USB�ڑ����̊O���J�������g�p�ł��܂��B
+- Chromeブラウザ
+- パソコン用カメラ - 1端末に最大2台まで。パソコン組み込みの内蔵カメラやUSB接続等の外部カメラが使用できます。
 
 
-## �f���T�C�g
-���ۂ̃f���T�C�g�Ƃ��Ĉȉ���URL�̃T�C�g���g�p�\�ł��B�f���p�A�J�E���g�Ń��O�C�����Ă��������B  
-(����) �K���uhttps�`�v�ŃA�N�Z�X���Ă��������B
+## デモサイト
+実際のデモサイトとして以下のURLのサイトが使用可能です。デモ用アカウントでログインしてください。  
+(注意) 必ず「https～」でアクセスしてください。
 
 https://white.magic3.biz
 
-�ʘb�p�A�J�E���g�Ƃ��āA**sample1**, **sample2**���g�p�ł��܂��B�p�X���[�h�̓A�J�E���g�Ɠ����ł��B
+通話用アカウントとして、**sample1**, **sample2**が使用できます。パスワードはアカウントと同じです。
 
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_1.png">
 
-## ���O�C��
-���O�C����ʂ��烍�O�C�����܂��B
+## ログイン
+ログイン画面からログインします。
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_2.png">
 
-## �g�b�v���
-���O�C����ɕ\��������ʂɂ͒ʘb�\�ȑ����̈ꗗ�ƁA�E���Ɏ����̃r�f�I�J�����̉f�����\������܂��B
+## トップ画面
+ログイン後に表示される画面には通話可能な相手先の一覧と、右下に自分のビデオカメラの映像が表示されます。
 
-���̉�ʕ\�����Ƀr�f�I�J������}�C�N���g�p���邩�̊m�F�_�C�A���O���\�������̂�OK�Ői�݂܂��B
-�J�������ڑ������Ǝ����I�ɉE���ɉf�����\������܂��B
-�r�f�I�ʘb���ɂ͂����Ŋm�F���ꂽ�f�������̂܂ܑ��葤����{���ł��܂��B
+この画面表示時にビデオカメラやマイクを使用するかの確認ダイアログが表示されるのでOKで進みます。
+カメラが接続されると自動的に右下に映像が表示されます。
+ビデオ通話時にはここで確認された映像がそのまま相手側から閲覧できます。
 
-�X�^�[�g�{�^���Œʘb���J�n����܂��B���葤������X�^�[�g�{�^����������ď��߂đo���̒ʘb���\�ɂȂ�܂��B
+スタートボタンで通話が開始されます。相手側からもスタートボタンが押されて初めて双方の通話が可能になります。
 
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_3.png">
 
 
-## �ʘb�����̏��
+## 通話相手先の状態
 
-�g�b�v��ʂŕ\�������ʘb�����̏�Ԃ̓A�C�R���ɕ\������܂��B
+トップ画面で表示される通話相手先の状態はアイコンに表示されます。
 
-�΂̏�Ԃ͑��葤�ŃX�^�[�g�{�^����������Ēʘb�ҋ@���ɂȂ��Ă��邱�Ƃ������܂��B
-�O���[�̏ꍇ�͑��肪���O�C���͂��Ă��邪�X�^�[�g�{�^���������Ă��Ȃ���Ԃł��B
+緑の状態は相手側でスタートボタンが押されて通話待機中になっていることを示します。
+グレーの場合は相手がログインはしているがスタートボタンを押していない状態です。
 
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_4.png">
 
-## �ʘb���
+## 通話画面
 
-�X�^�[�g�{�^���������Ǝ��������ʘb�ҋ@��ԂɂȂ�ʘb��ʂɑJ�ڂ��܂��B�ʘb��ʂ���͉E��̐Ԃ��{�^���ŏI�����܂��B
+スタートボタンを押すと自分側が通話待機状態になり通話画面に遷移します。通話画面からは右上の赤いボタンで終了します。
 
-��ʏ㕔�ɂ̓T�u�r���[�Ƃ��āA������̃r�f�I�f���܂��̓z���C�g�{�[�h���k���\������܂��B  
-�T�u�r���[����I�������r���[�����C���r���[�ɕ\������܂��B�T�u�r���[�̍��ڂ��N���b�N���ă��C����؂�ւ��܂��B
+画面上部にはサブビューとして、相手方のビデオ映像またはホワイトボードが縮小表示されます。  
+サブビューから選択したビューがメインビューに表示されます。サブビューの項目をクリックしてメインを切り替えます。
 
-�z���C�g�{�[�h��I������ƃ��C���G���A���}�E�X��y���^�u���b�g���ŕ`��ł���悤�ɂȂ�܂��B  
-�`��G���A�̎��͂ɂ̓z���C�g�{�[�h����p�̃{�^�����\������܂��B
-�J���[�̑I���A�`��G���A�̃N���A�A�摜�t�@�C���̃A�b�v���[�h�����s���܂��B
+ホワイトボードを選択するとメインエリアがマウスやペンタブレット等で描画できるようになります。  
+描画エリアの周囲にはホワイトボード操作用のボタンが表示されます。
+カラーの選択、描画エリアのクリア、画像ファイルのアップロード等が行えます。
 
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_5.png">
 
-### �����̒ʘb�J�n
-����悪�X�^�[�g����ƁA����悪�ڑ����Ă���r�f�I�J�����̑䐔���̉f�����T�u�r���[�ɕ\������܂��B
+### 相手先の通話開始
+相手先がスタートすると、相手先が接続しているビデオカメラの台数分の映像がサブビューに表示されます。
 
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_6.png">
 
-�T�u�r���[�̑����̉f�����N���b�N����ƃz���C�g�{�[�h�Ɠ���ւ��܂��B
+サブビューの相手先の映像をクリックするとホワイトボードと入れ替わります。
 
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_7.png">
 
-## �z���C�g�{�[�h
-�z���C�g�{�[�h�̔w�i�ɉ摜�t�@�C�����A�b�v���[�h����ɂ͉E��̃t�@�C���A�b�v���[�h�{�^���������܂��B  
-�t�@�C���̃h���b�v�G���A���\�������̂ŉ摜�t�@�C�����h���b�O&�h���b�v���܂��B
+## ホワイトボード
+ホワイトボードの背景に画像ファイルをアップロードするには右上のファイルアップロードボタンを押します。  
+ファイルのドロップエリアが表示されるので画像ファイルをドラッグ&ドロップします。
 
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_8.png">
 
-## �I��
-�i�r�Q�[�V�������j���[�̃��[�U�����N���b�N���ďI����I�����܂��B
+## 終了
+ナビゲーションメニューのユーザ名をクリックして終了を選択します。
 
 <img src="https://github.com/czbone/product-doc/blob/images/wbs_9.png">
